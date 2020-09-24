@@ -435,3 +435,7 @@ func TestDevUpdate(t *testing.T) {
 	fmt.Println("TestDevUpdate:dev branch updated by Zxj!")
 	fmt.Println("dev branch second time update!")
 }
+      
+
+func TestZxjBranchUpdate(t *testing.T) {"TestZxjBranchUpdate:zxj branch updated by zxj!"}
+

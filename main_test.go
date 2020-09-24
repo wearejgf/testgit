@@ -426,3 +426,7 @@ func TestConfig(t *testing.T) {
 func TestZxj(t *testing.T) {
 	fmt.Println("demo updated by Zxj!")
 }
+
+func TestZxjStep(t *testing.T) {
+	fmt.Println("Step3:demo updated by Zxj!")
+}

@@ -433,4 +433,6 @@ func TestZxjStep(t *testing.T) {
 
 func TestDevUpdate(t *testing.T) {
 	fmt.Println("TestDevUpdate:dev branch updated by Zxj!")
-}
+}      
+
+func TestZxjBranchUpdate(t *testing.T) {"TestZxjBranchUpdate:zxj branch updated by zxj!"}

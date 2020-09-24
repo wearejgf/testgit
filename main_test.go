@@ -430,3 +430,7 @@ func TestZxj(t *testing.T) {
 func TestZxjStep(t *testing.T) {
 	fmt.Println("Step3:demo updated by Zxj!")
 }
+
+func TestDevUpdate(t *testing.T) {
+	fmt.Println("TestDevUpdate:dev branch updated by Zxj!")
+}

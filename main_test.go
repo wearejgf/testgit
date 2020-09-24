@@ -422,3 +422,7 @@ func TestConfig(t *testing.T) {
 	fmt.Println(sdk.Config.CocoCloud.CocoCloudApi.Test.AppId)
 	fmt.Println(sdk.Config.CocoCloud.CocoCloudApi.Test.AccountName)
 }
+
+func TestZxj(t *testing.T) {
+	fmt.Println("demo updated by Zxj!")
+}
